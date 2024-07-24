@@ -1,0 +1,18 @@
+.one {
+    height: 60vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+}
+
+.bg-one {
+    /* background-color: red; */
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/8728e059-7686-4d2d-a67a-84872bd71025/15c893d5-2650-49ef-ab77-ee583f104078/LK-en-20240708-POP_SIGNUP_TWO_WEEKS-perspective_WEB_f2cb86cc-a0ec-4778-a373-a56f46aa23f1_small.jpg);
+    color: white;
+
+}
+
+.bg-one-inner {
+background-color: rgb(0, 0, 0, 0.6);
+}

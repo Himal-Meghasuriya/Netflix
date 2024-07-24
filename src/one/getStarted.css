@@ -1,0 +1,27 @@
+.Get-Wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.GetStarted-input {
+    width: 18rem;
+    height: 3rem;
+    border: 1px solid red;
+    border-radius: 0.2rem;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    /* color: white; */
+}
+
+.GetStarted-btn {
+    background-color: red;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 0.2rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+
+}

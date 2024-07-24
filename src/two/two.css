@@ -1,0 +1,22 @@
+.two-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    gap: 3rem;
+}
+
+.two-main-wrapper {
+    background-color: black;
+    padding: 5rem;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 600px) {
+    .two-main {
+    flex-direction: column;
+    }
+
+    
+}
